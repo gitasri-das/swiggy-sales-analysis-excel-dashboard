@@ -1,15 +1,15 @@
-# 🛒 Swiggy Smart Grocery Sales Insights Dashboard (Excel)
+# 🛒 Swiggy Sales Insights Dashboard (Excel)
 
-![Excel](https://img.shields.io/badge/Microsoft-Excel-green)
+[![Excel](https://img.shields.io/badge/Microsoft-Excel-green)](https://www.microsoft.com/excel)
 ![Project](https://img.shields.io/badge/Project-Data%20Analysis-blue)
-![Dataset](https://img.shields.io/badge/Dataset-190K%2B%20Orders-orange)
+[![Dataset](https://img.shields.io/badge/Dataset-38K%2B%20Records-orange)](Dataset.xlsx)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
 ## 🔎 Project Overview
 
-This project focuses on analyzing Swiggy grocery sales data using Microsoft Excel.
+This project focuses on analyzing Swiggy sales data using Microsoft Excel.
 
 An interactive dashboard was built to analyze:
 - Sales performance
@@ -42,6 +42,22 @@ The dashboard helps in understanding customer behavior and business growth using
 - Top Restaurants by Customer Engagement
 - Quarter-wise Sales & Orders Analysis
 - Interactive Filters using Slicers
+
+---
+
+## 📷 Dashboard Preview
+![Bank Loan Dashboard](Dashboard.png)
+
+---
+
+## 🎥 Interactive Dashboard Demo (Video)
+A short screen recording demonstrating:
+- Slicer-based filtering  
+- Dynamic KPI updates  
+- Interactive Excel dashboard behavior  
+
+👉 **Watch the demo video here:**  
+https://drive.google.com/file/d/1movkWjukjSeHFhtyZ6lXoJNcDk51TZWJ/view?usp=drive_link
 
 ---
 
@@ -83,17 +99,12 @@ The dataset contains:
 
 ---
 
-## 🖼 Dashboard Preview
-
-![Dashboard](images/dashboard.png)
-
----
-
 ## 📁 Files Included
 
 - Swiggy_Dashboard.xlsx
 - README.md
 - Dashboard Screenshot
+- Images used in Dashboard
 
 ---
 
@@ -106,3 +117,8 @@ This project improved my skills in:
 - KPI Reporting
 - Dashboard Design
 - Excel Analytics
+
+  ---
+
+## 📬 Connect With Me
+- LinkedIn: *(www.linkedin.com/in/gitasri-das)*  
