@@ -58,7 +58,7 @@ A short screen recording demonstrating:
 
 👉 **Watch the demo video here:**  
 
-![Demo](Images/Dashboard - demo.gif)
+![Demo](Images/Dashboard-demo.gif)
 
 ---
 
