@@ -57,8 +57,7 @@ A short screen recording demonstrating:
 - Interactive Excel dashboard behavior  
 
 👉 **Watch the demo video here:**  
-https://drive.google.com/file/d/1movkWjukjSeHFhtyZ6lXoJNcDk51TZWJ/view?usp=drive_link
-
+![Demo](Images/Dashboard - demo.gif)
 ---
 
 ## 🛠 Tools & Technologies Used
